@@ -36,6 +36,8 @@ terraform.rc
 *.json
 .terraform/
 Week 1/*
+Week 2/*
+Week 3/*
 Study Notes/*
 .terraform.lock.hcl
 *.csv.gz
